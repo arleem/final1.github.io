@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href='https://fonts.googleapis.com/css?family=Jost' rel='stylesheet'>
+<style>
+
+* {
+  box-sizing: border-box;
+}
+.fixmargin {margin:1px 300px;}
+ body { color: black;
+ 
+font-family: 'Jost';font-size: 22px;
+  background-color: white;}
+
+  ul {
+      border-radius:20px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1fbcd7;
+  font-size:16px;
+  width:100%;
+  height:44px;
+}
+
+li {float: right;
+ 
+}
+li a {
+  display: block;
+  color: #2e2d2d;
+  text-align: center;
+  padding: 10px 12px;
+  text-decoration: none;
+  width:100%;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #grey;
+}
+
+
+
+.text-block2 {
+  padding-left: 20px;
+
+  display: table-cell;
+  padding-top:10px;
+  
+  float: left;
+ 
+}
+ 
+.blog {font-size:39px;
+    color: #1fbcd7;
+    text-align:right;
+    padding-right:50px;
+}
+
+.box {background-color:lightgrey;
+    opacity:0.7;
+    width:100%;height:200px;
+      border-radius:20px;
+       display: table;
+  
+}
+
+</style>
+
+
+
+<body>
+ 
+ 
+
+<ul>
+    <li><a href="about.asp">ABOUT</a></li>
+      <li><a href="contact.asp">TAKE ACTION</a></li>
+     <li><a href="news.asp">ISSUES</a></li>
+  <li><a href="default.asp">HOME</a></li>
+</ul>
+
+
+
+<a href="#home">
+<div><a id="home"> </a></div>
+</a>
+
+<div class="box"> 
+    <div class="text-block2"><img src ="https://user-images.githubusercontent.com/64559191/80949906-8a2f2380-8dba-11ea-90db-974be10f5fab.png" alt="logo" style="width:auto;height:200px;">
+     </div>
+    <div class="blog"><h1>Take Action</h1>
+    </div>
+
+  
+</div>
+    
+ <div class="fixmargin">
+    
+
+     <p><h2>Donate</h2></p>
+    <p>Donations keep our organization running.</p>
+     <img src="https://user-images.githubusercontent.com/64559191/81022735-ff8b0a80-8e33-11ea-9ddc-2ffd888031b5.jpg" alt="paperrecycle" style="width:auto;height:300px;">
+    <p><h2>Contact Us</h2></p>
+    <p>The Chicago Recycling Coalition is currently an all volunteer organization, with no staff to regularly check email. We do check our email periodically, but due to the volume of email we receive, we are not able to respond to specific questions about recycling.</p>
+
+
+
+<p>The City of Chicago's recycling information can be found here.  Earth 911's search function is very helpful for specific "how do I recycle this?" questions.</p>
+
+
+
+<p>We also suggest visiting our Facebook page, where you can engage other like-minded Chicagoans about recycling issues.</p>
+
+    <p>Send us snail mail at:</p>
+    <p><b>Chicago Recycling Coalition</b></p>
+    <p><b>PO Box 87442</b></p>
+    <p><b>Chicago, IL</b></p>
+    <p><b>60680-0442</b></p>
+    
+    
+    
+    
+    <p><h2>Newsletter Sign-up</h2></p>
+<p> Sign up for our mailing list to get the latest news, events and updates in your inbox.</p>
+    <div = class"sign">
+    <img src="https://user-images.githubusercontent.com/64559191/81011180-1ffb9a80-8e1d-11ea-991f-f2eed5d9dc78.png" alt="email us" style="width:auto;height:auto;">
+<div/>
+    
+    
+        <p><h2>Resources</h2></p>
+    
+    
+    <p>lorum ipsum</p>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eu tellus sed mi eleifend commodo. Ut et dictum ante. Nullam non hendrerit est, vel consectetur ipsum.</p> <p>Duis sed tempor purus. Vivamus non bibendum ipsum. Nullam facilisis quis libero vel mattis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rhoncus, enim vitae dapibus efficitur, ex risus bibendum risus, sit amet fermentum orci dolor a mi.</p> 
+
+
+
+
+
+     </div>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
